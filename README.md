@@ -1,9 +1,6 @@
 # OrderEase
 
 A food delivery application made using React and Swiggy's API.
-
-This project was built By Me as a replacement for Swiggy.
-
 ## Tech Stack
 
 - React
