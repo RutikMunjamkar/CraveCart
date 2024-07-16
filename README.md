@@ -23,7 +23,7 @@ This project was built By Me as a replacement for Swiggy.
 1. Clone the repo
 
 ```bash
-git clone https://github.com/DineshRout779/FoodHunt
+git clone https://github.com/RutikMunjamkar/OrderEase
 ```
 
 2. Install dependencies
