@@ -17,7 +17,6 @@ This project was built By Me as a replacement for Swiggy.
 - Get restaurants by current location
 - Add to cart
 - Shimmer UI
--
 
 ## How to use
 
